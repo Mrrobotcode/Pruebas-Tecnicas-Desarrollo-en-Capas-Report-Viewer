@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0A2AA8-7918-460B-9B02-BD1F4DD28125}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\practicas de c#\\practicas y ejercicios (informatica 5tod)\\practicas con desarrollo en capas (ado.net)\\solution1\\capapresentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0A2AA8-7918-460B-9B02-BD1F4DD28125}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Solution1\\CapaPresentacion\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Solution1\\CapaPresentacion\\FrmCategorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmCategorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:22:03.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\politecnico\5to._d_2025\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb

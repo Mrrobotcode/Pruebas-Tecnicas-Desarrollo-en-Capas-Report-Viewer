@@ -1,0 +1,11 @@
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\politecnico\5to._d_2025\Solution1\CapaNegocio\obj\Debug\CapaNegocio.pdb

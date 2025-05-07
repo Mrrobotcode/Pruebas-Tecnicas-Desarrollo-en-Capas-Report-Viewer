@@ -1,0 +1,6 @@
+C:\politecnico\5to._d_2025\Solution1\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\politecnico\5to._d_2025\Solution1\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\politecnico\5to._d_2025\Solution1\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\politecnico\5to._d_2025\Solution1\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\politecnico\5to._d_2025\Solution1\CapaEntidades\obj\Debug\CapaEntidades.pdb

@@ -1,0 +1,17 @@
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategorias.resources
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\politecnico\5to._d_2025\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
