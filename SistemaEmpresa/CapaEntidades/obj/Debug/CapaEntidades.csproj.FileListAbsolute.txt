@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\SistemaEmpresa\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\SistemaEmpresa\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\SistemaEmpresa\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\SistemaEmpresa\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\SistemaEmpresa\CapaEntidades\obj\Debug\CapaEntidades.pdb
