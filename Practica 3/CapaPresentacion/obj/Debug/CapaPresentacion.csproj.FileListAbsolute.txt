@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\HP\Desktop\Practicas de C#\Practicas y Ejercicios (Informatica 5toD)\Practicas con desarrollo en Capas (ADO.Net)\Practica 3\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources

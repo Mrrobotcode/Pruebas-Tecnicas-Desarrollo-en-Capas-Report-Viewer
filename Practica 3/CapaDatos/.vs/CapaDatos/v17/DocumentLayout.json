@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Practica 3\\CapaDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CABA5A2-9A66-4AED-8724-A179A9FA43D9}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\practicas de c#\\practicas y ejercicios (informatica 5tod)\\practicas con desarrollo en capas (ado.net)\\practica 3\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CABA5A2-9A66-4AED-8724-A179A9FA43D9}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\practicas de c#\\practicas y ejercicios (informatica 5tod)\\practicas con desarrollo en capas (ado.net)\\practica 3\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Practica 3\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Practica 3\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:13:29.035Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Practica 3\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Practicas y Ejercicios (Informatica 5toD)\\Practicas con desarrollo en Capas (ADO.Net)\\Practica 3\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "..\\CapaPresentacion\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:47:21.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
